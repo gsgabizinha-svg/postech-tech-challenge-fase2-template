@@ -9,19 +9,19 @@
 
 | Campo | Valor |
 |---|---|
-| Turma | <!-- PREENCHER: ex. 12DTAT --> |
+| Turma | Pós Tech - Data Analytics - 2º ano • 2DTATBB • 4° Entrada |
 | Grupo | <!-- PREENCHER: ex. Grupo 07 --> |
-| Data de entrega | <!-- PREENCHER: DD/MM/AAAA --> |
+| Data de entrega | 10/10/2026 |
 
 ### Integrantes
 
 | Nome completo | RM | E-mail |
 |---|---|---|
-| <!-- PREENCHER --> | RM000000 | |
-| | | |
-| | | |
-| | | |
-| | | |
+| ANGELICA FONSECA DE FREITAS | RM377836 | angelicafonsecabb@gmail.com |
+| FERNANDA DE OLIVEIRA ALMEIDA | RM377812 | fernandaalmeida84@yahoo.com.br |
+| GABRIELA SOUZA E SILVA | RM377814 | gsgabizinha@gmail.com |
+| JULIANA OLIVEIRA COUTO ESPINDOLA VAZ DE LIMA | RM377805 | juoliveiracouto@gmail.com |
+| WILLIAM VLADIMIR ROSALES MERIDA DA SILVA | RM377758 | wvmerida@gmail.com |
 
 ---
 
